@@ -1,4 +1,4 @@
-# Carmela-React-Portfolio
+# Portfolio
 Personal Portfolio using React.js
 
 
