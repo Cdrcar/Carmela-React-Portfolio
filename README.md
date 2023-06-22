@@ -44,7 +44,7 @@ The portfolio includes various sections such as About Me, Portfolio, Contact, an
 ## [Installation](#installation)
 
 To run the portfolio locally and explore the code, follow these steps:
-
+1. Install Node.js.
 2. Clone the repository to your local system.
 3. Open the repository in your preferred code editor.
 4. Install the required dependencies:
