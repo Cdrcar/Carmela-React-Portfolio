@@ -1,7 +1,9 @@
 import React from 'react'
-import CV from '../../assets/cv.pdf' // Call to Action: encourage visitors to a specific action
+import CV from '../../assets/cv.pdf' 
 
-const CTA = () => {
+
+const CTA = () => { // Call to Action: encourage visitors to a specific action
+
   return (
     <div>
         <div className="cta">
