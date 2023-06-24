@@ -25,7 +25,7 @@ header {
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 5rem;
 }
 
 /* If I want to add a line under the icons */
@@ -45,6 +45,7 @@ header {
     position: absolute;
     left: 50%; /* Move the element to the middle of the container */
     transform: translateX(-50%); /* Adjust the position to center it */
+    margin-top: 4rem;
     overflow: hidden;
     padding: 1rem 1rem 1rem 1rem;
    
@@ -61,7 +62,7 @@ header {
         bottom: 5rem;
         transform: rotate(90deg);
         font-weight: 300;
-        font-size: 0.9rem;
+        font-size: 2rem;
       }
 
       /* Media Queries (Small Device) 600px or less*/
@@ -77,9 +78,9 @@ header {
       }
 
         /* Media Queries (Medium Device) 600px to  1024*/
-        @media screen and (max-width: 1024) {
+        @media screen and (max-width: 1024px) {
+        
             .header{
                 height: 68vh;
             }
-            
         }

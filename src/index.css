@@ -12,12 +12,12 @@
 /* Variables*/
 
 :root {
-    --color-bg: #1f1f38;
+    --color-bg: #ffece8;
     --color-bg-variant: #2c2c6c;
-    --color-primary:#4db5ff;
+    --color-primary: #ce6868;
     --color-primary-variant:rgba(77, 181, 255, 0.4);
-    --color-white: #fff;
-    --color-light:rgba(255, 255, 255, 0.6);
+    --color-white: #852323;
+    --color-light:#ce6868;
 
     --transition: all 400ms ease;
 

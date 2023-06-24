@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import PHOTO from '../../assets/my-photo.jpg'
 import HeaderSocialMedia  from './HeaderSocialMedia'
+import {AiOutlineSwapRight} from 'react-icons/ai'
 
 import 'aos/dist/aos.css'
 
@@ -21,7 +22,7 @@ const Header = () => {
         </div>
 
 
-        <a href="#contact" className= 'scroll__down'>Scroll Down</a>
+        <a href="#contact" className= 'scroll__down'><AiOutlineSwapRight/></a>
       </div>
     </header>
     
