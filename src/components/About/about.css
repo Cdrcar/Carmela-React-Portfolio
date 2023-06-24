@@ -8,7 +8,6 @@
     width: 100%;
     aspect-ratio: 1/1;
     border-radius: 1rem;
-    transition: var(--transition);
     background: linear-gradient(
         20deg,
         transparent,
@@ -20,11 +19,12 @@
 }
 
 .about__me-image {
+    transition: var(--transition);
     border-radius: 4rem;
     overflow: hidden;
 }
 
-.about__me:hover {
+.about__me-image:hover {
     transform: rotate(-2deg);
 }
 
