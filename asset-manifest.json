@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carmelarey/static/css/main.1f47a309.css",
+    "main.js": "/carmelarey/static/js/main.fb802044.js",
+    "static/media/sociosynergy.png": "/carmelarey/static/media/sociosynergy.4a51f10fc862d49d5145.png",
+    "static/media/technovate.png": "/carmelarey/static/media/technovate.517756b467f8610d9ae9.png",
+    "static/media/weather.png": "/carmelarey/static/media/weather.cc2b73228772f1a9da09.png",
+    "static/media/jate.png": "/carmelarey/static/media/jate.b4d44b6f9e9458dce68c.png",
+    "static/media/quiz.png": "/carmelarey/static/media/quiz.67212a00ef549804f722.png",
+    "static/media/password.png": "/carmelarey/static/media/password.8f682ffd56e13b093241.png",
+    "static/media/my-photo.jpg": "/carmelarey/static/media/my-photo.91fe5eea9aaad6dd47e1.jpg",
+    "static/media/cv.pdf": "/carmelarey/static/media/cv.e4a30ca05d83d74e3ddb.pdf",
+    "static/media/car-logo.png": "/carmelarey/static/media/car-logo.d7259063b0ae56f6271c.png",
+    "index.html": "/carmelarey/index.html",
+    "main.1f47a309.css.map": "/carmelarey/static/css/main.1f47a309.css.map",
+    "main.fb802044.js.map": "/carmelarey/static/js/main.fb802044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f47a309.css",
+    "static/js/main.fb802044.js"
+  ]
+}
