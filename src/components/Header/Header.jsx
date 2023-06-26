@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CTA from './CTA'
-import PHOTO from '../../assets/my-photo.jpg'
+import PHOTO from '../../assets/car-logo.png'
 import HeaderSocialMedia  from './HeaderSocialMedia'
 import {AiOutlineSwapRight} from 'react-icons/ai'
 
