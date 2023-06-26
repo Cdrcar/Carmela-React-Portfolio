@@ -25,16 +25,13 @@ The portfolio includes various sections such as About Me, Portfolio, Contact, an
 - React.js
 - Node.js
 - NPM 
-- Nodemon
+- Emailjs
 - GitHub Pages
 
 ## [Final Result](#table-of-contents)
 
-![](./assets)
-![](./assets)
-![](./assets)
-![](./assets)
-![](./assets)
+![Homepage](./src/assets/my-portfolio.png)
+
 
 
 ## [Deployment](#deployment)
