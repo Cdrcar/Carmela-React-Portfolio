@@ -4,7 +4,9 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#"></a>
+      <div  className='footer__copyright'>
+      <p class="paragraph-footer">Copyright © 2023 Carmela Rey</p>
+      </div>
     </footer>
   )
 }
