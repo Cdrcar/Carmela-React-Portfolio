@@ -6,6 +6,7 @@ import IMG3 from '../../assets/weather.png'
 import IMG4 from '../../assets/quiz.png'
 import IMG5 from '../../assets/password.png'
 import IMG6 from '../../assets/jate.png'
+import IMG7 from '../../assets/wizdumb.png'
 
 // Map through array of items to generate the portfolio section
 const data = [
@@ -55,6 +56,13 @@ const data = [
     title: 'Text editor that runs in the browser following the PWA criteria',
     github: 'https://github.com/Cdrcar/TextEditor-PWA',
     demo: 'https://another-text-6df59f26a1f0.herokuapp.com/'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Tech Academy using MERN to create a Stack Single-Page Application',
+    github: 'https://github.com/Cdrcar/Wizdumb',
+    demo: 'https://wizdumb-app-a832fc305640.herokuapp.com/'
   },
 ]
 
