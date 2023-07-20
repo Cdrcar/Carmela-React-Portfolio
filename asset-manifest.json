@@ -1,23 +1,25 @@
 {
-  "files": {
-    "main.css": "/Carmela-React-Portfolio/static/css/main.1f47a309.css",
-    "main.js": "/Carmela-React-Portfolio/static/js/main.72b8c45f.js",
-    "static/media/wizdumb.png": "/Carmela-React-Portfolio/static/media/wizdumb.8d4a30982d041bbdb002.png",
-    "static/media/sociosynergy.png": "/Carmela-React-Portfolio/static/media/sociosynergy.4a51f10fc862d49d5145.png",
-    "static/media/technovate.png": "/Carmela-React-Portfolio/static/media/technovate.517756b467f8610d9ae9.png",
-    "static/media/weather.png": "/Carmela-React-Portfolio/static/media/weather.cc2b73228772f1a9da09.png",
-    "static/media/jate.png": "/Carmela-React-Portfolio/static/media/jate.b4d44b6f9e9458dce68c.png",
-    "static/media/quiz.png": "/Carmela-React-Portfolio/static/media/quiz.67212a00ef549804f722.png",
-    "static/media/password.png": "/Carmela-React-Portfolio/static/media/password.8f682ffd56e13b093241.png",
-    "static/media/my-photo.jpg": "/Carmela-React-Portfolio/static/media/my-photo.91fe5eea9aaad6dd47e1.jpg",
-    "static/media/cv.pdf": "/Carmela-React-Portfolio/static/media/cv.e4a30ca05d83d74e3ddb.pdf",
-    "static/media/car-logo.png": "/Carmela-React-Portfolio/static/media/car-logo.d7259063b0ae56f6271c.png",
-    "index.html": "/Carmela-React-Portfolio/index.html",
-    "main.1f47a309.css.map": "/Carmela-React-Portfolio/static/css/main.1f47a309.css.map",
-    "main.72b8c45f.js.map": "/Carmela-React-Portfolio/static/js/main.72b8c45f.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.1f47a309.css",
-    "static/js/main.72b8c45f.js"
-  ]
+  "main.css": "/Carmela-React-Portfolio/static/css/main.f8ba631e.chunk.css",
+  "main.js": "/Carmela-React-Portfolio/static/js/main.0dbedb4c.chunk.js",
+  "main.js.map": "/Carmela-React-Portfolio/static/js/main.0dbedb4c.chunk.js.map",
+  "runtime~main.js": "/Carmela-React-Portfolio/static/js/runtime~main.570115d6.js",
+  "runtime~main.js.map": "/Carmela-React-Portfolio/static/js/runtime~main.570115d6.js.map",
+  "static/css/2.23a24373.chunk.css": "/Carmela-React-Portfolio/static/css/2.23a24373.chunk.css",
+  "static/js/2.0217767c.chunk.js": "/Carmela-React-Portfolio/static/js/2.0217767c.chunk.js",
+  "static/js/2.0217767c.chunk.js.map": "/Carmela-React-Portfolio/static/js/2.0217767c.chunk.js.map",
+  "index.html": "/Carmela-React-Portfolio/index.html",
+  "precache-manifest.ac727e2f0736cb115ba2c67f1d125144.js": "/Carmela-React-Portfolio/precache-manifest.ac727e2f0736cb115ba2c67f1d125144.js",
+  "service-worker.js": "/Carmela-React-Portfolio/service-worker.js",
+  "static/css/2.23a24373.chunk.css.map": "/Carmela-React-Portfolio/static/css/2.23a24373.chunk.css.map",
+  "static/css/main.f8ba631e.chunk.css.map": "/Carmela-React-Portfolio/static/css/main.f8ba631e.chunk.css.map",
+  "static/media/car-logo.png": "/Carmela-React-Portfolio/static/media/car-logo.7e4969a7.png",
+  "static/media/cv.pdf": "/Carmela-React-Portfolio/static/media/cv.b980f434.pdf",
+  "static/media/jate.png": "/Carmela-React-Portfolio/static/media/jate.ff9c9786.png",
+  "static/media/my-photo.jpg": "/Carmela-React-Portfolio/static/media/my-photo.fafa3047.jpg",
+  "static/media/password.png": "/Carmela-React-Portfolio/static/media/password.cd2dbd0d.png",
+  "static/media/quiz.png": "/Carmela-React-Portfolio/static/media/quiz.e0e91bf8.png",
+  "static/media/sociosynergy.png": "/Carmela-React-Portfolio/static/media/sociosynergy.e399e437.png",
+  "static/media/technovate.png": "/Carmela-React-Portfolio/static/media/technovate.339a687a.png",
+  "static/media/weather.png": "/Carmela-React-Portfolio/static/media/weather.e5e3d73c.png",
+  "static/media/wizdumb.png": "/Carmela-React-Portfolio/static/media/wizdumb.86fc5036.png"
 }
