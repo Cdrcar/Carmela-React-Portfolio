@@ -18,13 +18,13 @@ const About = () => {
         <div className="about__content">
 
         <p>
-        My name is Carmela, a dedicated junior developer with a strong desire to create engaging and user-friendly web experiences. I have a diverse skill set, having completed two bootcamps in Full Stack Web Development and Cloud Engineering, which allows me to bridge the gap between front-end design and back-end infrastructure.
+          My name is Carmela, a dedicated junior developer with a strong desire to create engaging and user-friendly web experiences.
            <br />
            <br />
-           I believe in lifelong learning and actively seek out new opportunities to enhance my expertise, both in web development and cloud computing. I am passionate about leveraging cloud technologies to build scalable and efficient applications that deliver exceptional user experiences.
+           I believe in lifelong learning and actively seek out new opportunities to enhance my expertise.
            <br />
            <br />
-           Beyond my technical pursuits, I have a deep love for nature and adventure. In my free time, you will often find me seeking new places to explore, whether it's hiking through scenic trails or embarking on spontaneous trips. I also love painting!
+           I developed a love for nature and adventure. In my free time, you will often find me seeking new places to explore. I also love painting!
           </p>
           <br />
 
