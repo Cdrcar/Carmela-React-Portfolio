@@ -12,7 +12,7 @@ export const Services = () => {
         <article className="service">
           {/* Web Development */}
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Web Development • Cloud Engineering</h3>
           </div>
 
           <ul className="service__list">
@@ -63,9 +63,27 @@ export const Services = () => {
             <li>
               <VscWorkspaceTrusted className="service__list-icon" />
               <p>
-                Problem Solving and Debugging: Skilled in identifying and
-                resolving issues, bugs, and errors in web applications, ensuring
-                optimal performance and functionality.
+                Cloud Infrastructure Management: Proficient in setting up and
+                managing cloud infrastructure using platforms like AWS to ensure
+                scalable, secure, and cost-effective solutions.
+              </p>
+            </li>
+            <li>
+              <VscWorkspaceTrusted className="service__list-icon" />
+              <p>
+                DevOps and Continuous Integration/Continuous Deployment (CI/CD):
+                Implementing DevOps practices to automate the development,
+                testing, and deployment processes, promoting collaboration and
+                efficiency within development teams.
+              </p>
+            </li>
+            <li>
+              <VscWorkspaceTrusted className="service__list-icon" />
+              <p>
+                Containerization and Orchestration: Experience in containerizing
+                applications using Docker and deploying and managing them with
+                container orchestration platforms like Kubernetes, ensuring easy
+                scalability and high availability.
               </p>
             </li>
           </ul>
